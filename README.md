@@ -16,7 +16,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Software Engineering** student at **ITESO, Universidad Jesuita de Guadalajara**, expected to graduate in 2026. With a strong academic record (**GPA 9.26/10**), I combine theoretical foundations with practical application in full-stack development and data architecture.
 
@@ -28,7 +28,7 @@ My passion lies in building scalable solutions within the **FinTech** and **Prop
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -61,11 +61,12 @@ My passion lies in building scalable solutions within the **FinTech** and **Prop
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanDVarela&show_icons=true&theme=radical&hide_border=true" alt="Alan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDVarela&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Alan's Stats" />
+  
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 <br />
