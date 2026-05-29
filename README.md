@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Alan Varela 👋</h1>
-  <h3>Software Engineering Student | Full Stack Developer | Data Engineering Enthusiast</h3>
+  <h3>Software Engineering Student | Full Stack Developer </h3>
   
   <p>
     based in <b>Zapopan, Jalisco, Mexico</b> 🇲🇽
@@ -18,13 +18,13 @@
 
 ## About Me
 
-I am a **Software Engineering** student at **ITESO, Universidad Jesuita de Guadalajara**, expected to graduate in 2026. With a strong academic record (**GPA 9.26/10**), I combine theoretical foundations with practical application in full-stack development and data architecture.
+I am a **Software Engineering** student at **ITESO, Universidad Jesuita de Guadalajara**, expected to graduate in 2027. With a strong academic record (**GPA 9.33/10**), I combine theoretical foundations with practical application in full-stack development and data architecture.
 
 My passion lies in building scalable solutions within the **FinTech** and **PropTech** sectors. I enjoy tackling complex problems involving distributed systems, multi-model databases, and real-time processing.
 
-* **Current Focus:** Advanced Data Engineering & Full Stack Architecture.
+* **Current Focus:** System Design & Full Stack Architecture.
 * **Languages:** Spanish (Native), English (C1 Advanced - TOEFL ITP: 620).
-* **Interests:** Trail Running 🏃, Mountaineering 🏔️, and Financial Technology.
+* **Interests:** Trail Running , Mountaineering , and Financial Technology.
 
 ---
 
