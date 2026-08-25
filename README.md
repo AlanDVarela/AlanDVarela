@@ -70,7 +70,3 @@ My passion lies in building scalable solutions within the **FinTech** and **Prop
 </div>
 
 <br />
-
-<div align="center">
-  <i>"Mountaineering teaches you that the summit is just the halfway point; getting back down safely is where the real skill lies. The same applies to deployment."</i>
-</div>
