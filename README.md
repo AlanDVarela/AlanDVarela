@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Alan Varela 👋</h1>
-  <h3>Software Engineering Student | Full Stack Developer </h3>
-  
+  <h3>Software Engineering Student | Backend & Cloud Developer</h3>
+
   <p>
     based in <b>Zapopan, Jalisco, Mexico</b> 🇲🇽
   </p>
@@ -18,13 +18,21 @@
 
 ## About Me
 
-I am a **Software Engineering** student at **ITESO, Universidad Jesuita de Guadalajara**, expected to graduate in 2027. With a strong academic record (**GPA 9.33/10**), I combine theoretical foundations with practical application in full-stack development and data architecture.
+I am a **Software Engineering** student at **ITESO, Universidad Jesuita de Guadalajara**, expected to graduate in 2027 (**GPA 9.33/10**).
 
-My passion lies in building scalable solutions within the **FinTech** and **PropTech** sectors. I enjoy tackling complex problems involving distributed systems, multi-model databases, and real-time processing.
+I enjoy **backend development, system design, and working in the cloud**. I build APIs in **TypeScript/Node.js** and **Java**, deploy them on **AWS**, and I am currently diving into **distributed systems**.
 
-* **Current Focus:** System Design & Full Stack Architecture.
-* **Languages:** Spanish (Native), English (C1 Advanced - TOEFL ITP: 620).
-* **Interests:** Trail Running , Mountaineering , and Financial Technology.
+* **Current Focus:** Backend, Cloud Architecture & Distributed Systems.
+* **Languages:** Spanish (Native), English (C1 Advanced - TOEFL ITP: 620/677).
+* **Interests:** Trail Running, Mountaineering.
+
+---
+
+## Featured Projects
+
+* ⚙️ **[Bookio Backend](https://github.com/AlanDVarela/bookio-backend)**: multi-tenant appointment-booking SaaS. REST API in TypeScript/Express on AWS EC2, PostgreSQL on RDS (Prisma), Firebase Authentication with role-based access control, SQS for asynchronous email processing, S3 and Secrets Manager.
+* 🕸️ **Distributed Fraud Detection System**: multi-model database architecture (Cassandra, MongoDB, Dgraph) with graph algorithms to detect circular transfers and transaction rings, fully containerized with Docker.
+* 🏗️ **Kubico**: construction management system in Node.js/TypeScript with a centralized pricing catalog and automatic cost propagation.
 
 ---
 
@@ -33,29 +41,18 @@ My passion lies in building scalable solutions within the **FinTech** and **Prop
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-### Backend & Web Technologies
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### Databases & Data Engineering
+### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/Dgraph-E50695?style=for-the-badge&logo=dgraph&logoColor=white" />
 
-### Tools, DevOps & Cloud
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### Cloud & DevOps
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
@@ -65,7 +62,7 @@ My passion lies in building scalable solutions within the **FinTech** and **Prop
 
 <div align="center">
   <img src="./profile/stats.svg" alt="Alan's Stats" />
-  
+
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
